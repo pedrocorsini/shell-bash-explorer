@@ -1,8 +1,8 @@
-# Files Explorer
+# 📂 Files Explorer
 
 Basic files explorer using shell scprit and dialog for linux-based OS.
 
-## Project Structe
+## 📝 Project Structe
 
 ```plaintext
 shell-bash-explorer
@@ -12,7 +12,7 @@ shell-bash-explorer
 └── LICENSE                 # MIT Student License
 ```
 
-## How to run
+## 🛠️ How to run
 
 - Install dialog:
 ```bash 
