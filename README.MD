@@ -2,7 +2,7 @@
 
 Basic files explorer using shell scprit and dialog for linux-based OS.
 
-## 📝 Project Structe
+## 📝 Project Structure
 
 ```plaintext
 shell-bash-explorer
